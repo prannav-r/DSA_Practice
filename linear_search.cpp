@@ -8,9 +8,8 @@ int ls(int arr[], int n, int x)
         {
             return 1;
         }
-
-        return 0;
     }
+    return 0;
 }
 
 int main()
